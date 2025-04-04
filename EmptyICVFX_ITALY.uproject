@@ -111,6 +111,10 @@
 		{
 			"Name": "WaterExtras",
 			"Enabled": true
+		},
+		{
+			"Name": "MoSysVPPro",
+			"Enabled": true
 		}
 	],
 	"TargetPlatforms": [
