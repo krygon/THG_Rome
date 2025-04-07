@@ -31,8 +31,7 @@
 			"Name": "LiveLinkXR",
 			"Enabled": true,
 			"SupportedTargetPlatforms": [
-				"Win64",
-				"Linux"
+				"Win64"
 			]
 		},
 		{
@@ -49,12 +48,7 @@
 		},
 		{
 			"Name": "USDImporter",
-			"Enabled": true,
-			"SupportedTargetPlatforms": [
-				"Win64",
-				"Mac",
-				"Linux"
-			]
+			"Enabled": true
 		},
 		{
 			"Name": "LiveLinkCamera",
@@ -114,6 +108,18 @@
 		},
 		{
 			"Name": "MoSysVPPro",
+			"Enabled": true
+		},
+		{
+			"Name": "Compositor",
+			"Enabled": true
+		},
+		{
+			"Name": "Cargo",
+			"Enabled": true
+		},
+		{
+			"Name": "GPULightmass",
 			"Enabled": true
 		}
 	],
