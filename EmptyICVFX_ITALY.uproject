@@ -117,10 +117,6 @@
 		{
 			"Name": "Cargo",
 			"Enabled": true
-		},
-		{
-			"Name": "GPULightmass",
-			"Enabled": true
 		}
 	],
 	"TargetPlatforms": [
