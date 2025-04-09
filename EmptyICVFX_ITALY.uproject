@@ -107,16 +107,12 @@
 			"Enabled": true
 		},
 		{
-			"Name": "MoSysVPPro",
-			"Enabled": true
-		},
-		{
-			"Name": "Compositor",
-			"Enabled": true
-		},
-		{
 			"Name": "Cargo",
 			"Enabled": false
+		},
+		{
+			"Name": "GPULightmass",
+			"Enabled": true
 		}
 	],
 	"TargetPlatforms": [
