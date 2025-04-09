@@ -113,6 +113,10 @@
 		{
 			"Name": "GPULightmass",
 			"Enabled": true
+		},
+		{
+			"Name": "MoSysVPPro",
+			"Enabled": true
 		}
 	],
 	"TargetPlatforms": [
